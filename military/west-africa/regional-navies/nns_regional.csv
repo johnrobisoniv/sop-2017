@@ -1,0 +1,74 @@
+ partition_code |  vessel_name   |   mmsi    
+----------------+----------------+-----------
+                | NNS DEPENDABLE | 341047000
+                | NNS VIGILANT   | 341938000
+                | NNS HUNTER     | 657111005
+                | NNSNEMESIS     | 657111006
+                | NNS VALIANT    | 657111033
+                | NNS CONQUEST   | 657111034
+                | NNS DOLPHIN    | 657111041
+                | NNS PROSPERITY | 657102900
+                | NNS GENESIS    | 657111050
+                | NNS VISION     | 657111053
+                | NNS OTU'KG     | 657111055
+                | NNS VIPER      | 657111094
+                | NNS POUNCER    | 657111004
+                | NNS DAURA      | 657111008
+                | NNS COBRA      | 657111030
+                | NNS LIGHTNING  | 657111011
+                | NNS ISEHIN     | 657111033
+                | NNS PHANTOM    | 657111034
+                | NNS NKO        | 657111098
+                | NNS OGUR'      | 657111099
+                | NNS STRIKER    | 657111036
+                | NNS TITAN      | 657111037
+                | NNS TORNADO    | 657111038
+                | NNS OGURO      | 657111099
+                | NNS EKO        | 657111039
+                | NNS FORTRESS   | 657111041
+                | NNS RANGER     | 657111042
+                | NNS CONQUEST   | 657111043
+                | NNS QUANTUM    | 657111043
+                | NNS VIPER      | 657111043
+                | NNS VIPER      | 657111044
+                | NNS NEMESIS    | 657111046
+                | NNS CONQUER    | 657111051
+                | NNS YENEGOA    | 657111052
+                | NNS BINI       | 657111053
+                | NNS OTUOKE     | 657111055
+                | NNS SWORD      | 657111058
+                | NNS WARRIOR    | 657111060
+                | NNS HAWK       | 657111061
+                | NNS DAURA      | 657111080
+                | NNS JATTU      | 657111090
+                | NNS TERMINATOR | 657111093
+                | NNS TIGER      | 657705000
+                | NNS SEA HORSE  | 657631000
+                | NNS BURUTU     | 657713000
+                | NNS UNITY      | 657736000
+                | NNS DOLPHIN    | 657741000
+                | NNS*DOLPHIN    | 657741000
+                | NNS GBEDE      | 657743000
+                | NNS GBGDE      | 657743000
+                | NNS OKURA      | 657744000
+                | NNS HARMONY    | 657706000
+                | NNS VISION     | 657707000
+                | NNS%KQ!B]A     | 657708000
+                | NNS KYANWA     | 657708000
+                | NNS OBULA      | 657711000
+                | NNS.OBULA      | 657711000
+                | NNS  VALOUR    | 657715000
+                | NNS FIAT       | 657716000
+                | NNS  VALIANT   | 657717000
+                | NNS STORM      | 657718000
+                | NNS SHIRORO    | 657748000
+                | NNS SPARROW    | 657720000
+                | NNS PROTECTOR  | 657733000
+                | NNS TERMINATOR | 657733000
+                | NNS CENTENARY  | 657735000
+                | NNS OKPABANA   | 657737000
+                | NNS CONQUER    | 657738000
+                | NNS IKOLE      | 657756110
+                | NNS NKO        | 675111098
+(70 rows)
+

@@ -1,0 +1,9 @@
+ partition_code |  vessel_name  |   mmsi    
+----------------+---------------+-----------
+                | SVS BONNY     | 511050000
+                | M6 O\ASE# CAB | 657132000
+                | MV OSARUGUE   | 657132000
+                | ESAMEDE       | 657137200
+                | OSAMEDE       | 657137200
+(5 rows)
+

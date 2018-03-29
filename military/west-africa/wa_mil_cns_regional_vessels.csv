@@ -1,0 +1,18 @@
+ partition_code |   vessel_name   |   mmsi    
+----------------+-----------------+-----------
+                | CNS             | 613000000
+                | CNS             | 613000111
+                | CNS             | 613003522
+                | CNS LE NTEM     | 613003522
+                | CNS             | 613003523
+                | CNSLASANAGA     | 613003523
+                | CNS LA SANAGA   | 613003523
+                | CNS FIFINDA     | 613003528
+                | CNS             | 613003530
+                | CNS LE LOGONE   | 613006000
+                | CNS EBODJE P111 | 613020155
+                | CNS JABANE      | 613222333
+                | CNS             | 613333222
+                | CNS             | 613444222
+(14 rows)
+

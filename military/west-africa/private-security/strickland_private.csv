@@ -1,0 +1,22 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+                | DEFENDER 5           | 375332000
+                | DEFENDER V           | 375332000
+                | DEFENDER VII         | 657128500
+                | DEFENDER 6(AIS1)     | 656953460
+                | DEFENDER 6 (AIS1)    | 657117280
+                | DEFENDER 6(AIS3)     | 657117300
+                | DEFENDER 6 AIS1      | 657117300
+                | DEFENDER 6 (AIS1)    | 657117300
+                | DEFENDER 3 AIS2      | 657128800
+                | DEFENDER VIII        | 657128800
+                | DEFENDER VIII    (B* | 657128800
+                | DEFENDER 2 (AIS2)    | 657893000
+                | DEFENDER 2           | 657893000
+                | DEFENDER 2       "   | 657893000
+                | DEFENDER 1         H | 657949000
+                | DEFENDER 1           | 657949000
+                | DEFENDER3            | 666666000
+                | DEFENDER 3 AIS2      | 666666000
+(18 rows)
+

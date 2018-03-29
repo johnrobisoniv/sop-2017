@@ -1,0 +1,5 @@
+Average number of daily vessels
+Fraction of vessels speeding
+Average daily excess fuel use (tons)
+Average cost of ton of fuel oil
+Average daily excess fuel cost ($)
