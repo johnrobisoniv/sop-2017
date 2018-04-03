@@ -1,0 +1,12 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+                | MV QUEEN ALAERE      | 657115500
+                | MV SIR EGEKA I&GORBH | 657115600
+                | MV SIR EMEKA OFFOR   | 657115600
+                | MV:SIR EMEKA OFFOR   | 657115600
+                | PRINCESS EBIKENIE    | 657124900
+                | AUGUSTINA 2          | 657125000
+                | EV                   | 657635000
+                | MV AUGUSTINA         | 657635000
+(8 rows)
+

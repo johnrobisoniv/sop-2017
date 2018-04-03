@@ -1,0 +1,6 @@
+psql:./sql-flat/sql_speed_groups_17.sql:131: ERROR:  missing FROM-clause entry for table "p"
+LINE 42:  p.length, p.vessel_type, date_trunc('month', p.ts_pos_utc)
+          ^
+psql:./sql-flat/sql_speed_groups_17.sql:179: ERROR:  missing FROM-clause entry for table "p"
+LINE 42:  p.length, p.vessel_type, date_trunc('month', p.ts_pos_utc)
+          ^

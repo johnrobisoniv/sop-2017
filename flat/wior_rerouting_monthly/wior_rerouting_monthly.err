@@ -1,0 +1,2 @@
+psql:./sql-flat/wior_rerouting_monthly.sql:27: NOTICE:  gserialized_gist_joinsel: jointype 1 not supported
+psql:./sql-flat/wior_rerouting_monthly.sql:27: NOTICE:  gserialized_gist_joinsel: jointype 1 not supported

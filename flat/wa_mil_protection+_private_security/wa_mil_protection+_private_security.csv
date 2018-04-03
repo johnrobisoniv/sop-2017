@@ -1,0 +1,10 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+                | HMT  1               | 657107100
+                | QUEEN NAJMI        % | 657123000
+                | QUEEN NAOMI          | 657123000
+                | ELTEE1               | 657127200
+                | ELTEE 1              | 657127200
+                | MV CELTIC EBENEZER   | 657327000
+(6 rows)
+

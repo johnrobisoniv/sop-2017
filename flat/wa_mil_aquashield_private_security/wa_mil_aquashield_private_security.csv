@@ -1,0 +1,12 @@
+ partition_code |    vessel_name    |   mmsi    
+----------------+-------------------+-----------
+                | AQUASHIELD III    | 657133200
+                | AQUASHIELD I      | 657133000
+                | AQUASHIELD II     | 657133100
+                | MV AQUASHIELD III | 657133200
+                | AQUASHIELD IV     | 657133300
+                | MV SEEKER         | 657557000
+                | UNAVAILABLE       | 657557000
+                | MV SEARCHER       | 657556000
+(8 rows)
+

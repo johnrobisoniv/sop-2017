@@ -1,0 +1,7 @@
+ partition_code |    vessel_name     |   mmsi    
+----------------+--------------------+-----------
+                | NATASHA III        | 354786000
+                | NATASHA II         | 357384000
+                | NATAYHAHACT4     % | 357384000
+(3 rows)
+

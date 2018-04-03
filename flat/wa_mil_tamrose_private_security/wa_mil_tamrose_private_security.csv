@@ -1,0 +1,12 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+                | TGC4XASK        H  1 | 376496000
+                | TMC HAWK             | 376496000
+                | TMC4EAGXE     !  0   | 657100100
+                | TMC EAGLE            | 657100100
+                | TMC EAGLE        % 1 | 657100100
+                | SVS AVERY            | 657109400
+                | SVS HAWKINS          | 657109500
+                | TMC ANGEL            | 657126400
+(8 rows)
+

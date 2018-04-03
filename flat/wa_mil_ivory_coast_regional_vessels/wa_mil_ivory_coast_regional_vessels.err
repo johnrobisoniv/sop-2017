@@ -1,0 +1,3 @@
+psql:./sql-flat/wa_mil_ivory_coast_regional_vessels.sql:7: ERROR:  syntax error at or near "E"
+LINE 5: ...D (vp.vessel_name LIKE 'LE%' OR vp.vessel_name LIKE 'L\'E%')
+                                                                   ^

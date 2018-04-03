@@ -1,0 +1,12 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+                | MV QUEENVIA4ORIA III | 657129300
+                | MV QUEENVICTORIA III | 657129300
+                | MV QUEEN VICTORIA IV | 657129400
+                | QUEEN VICTORIA 1     | 657620000
+                | QUEEN VICTORIA 1 !!  | 657620000
+                | QUEEN WYCV-RI! 1     | 657620000
+                | QUEEN VICTORIA 11    | 657919000
+                | SO BODA 0!B          | 657919000
+(8 rows)
+
