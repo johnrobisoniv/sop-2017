@@ -1,0 +1,277 @@
+ partition_code |   mmsi    |     vessel_name      |           flag_country           
+----------------+-----------+----------------------+----------------------------------
+ B              | 228105600 | HIGHLANDER-JOHNESS   | France
+ B              | 375332000 | DEFENDER 5           | Saint Vincent and the Grenadines
+ B              | 375332000 | DEFENDER V           | Saint Vincent and the Grenadines
+ B              | 376496000 | TMC HAWK             | Saint Vincent and the Grenadines
+ B              | 377645000 | SVITZER KUMBIRA      | Saint Vincent and the Grenadines
+ B              | 377725000 | SVITZER KISSAMA      | Saint Vincent and the Grenadines
+ B              | 603808800 | NGOLA KILUANGE       | Angola
+ B              | 603809200 | NZINGA MBANDI        | Angola
+ B              | 613006000 | CNS LE LOGONE        | Cameroon
+ B              | 657102000 | HUDSON CAPT ELENDU   | Nigeria
+ B              | 657105500 | CONQUEROR TRE        | Nigeria
+ B              | 657111004 | NNS POUNCER          | Nigeria
+ B              | 657111037 | NNS TITAN            | Nigeria
+ B              | 657111042 | NNS RANGER           | Nigeria
+ B              | 657111050 | NNS GENESIS          | Nigeria
+ B              | 657111051 | NNS CONQUER          | Nigeria
+ B              | 657111053 | NNS BINI             | Nigeria
+ B              | 657123500 | WHISKY PRIDE         | Nigeria
+ B              | 657350000 | MV SIKA 2            | Nigeria
+ B              | 657523000 | UTAI 2               | Nigeria
+ B              | 657631000 | NNS SEA HORSE        | Nigeria
+ B              | 657706000 | L&'4HARMONYJ         | Nigeria
+ B              | 657706000 | NNS HARMONY          | Nigeria
+ B              | 657717000 | NNS  VALIANT         | Nigeria
+ B              | 657718000 | NNS STORM            | Nigeria
+ B              | 657737000 | NNS OKPABANA         | Nigeria
+ B              | 657743000 | NNS GBEDE            | Nigeria
+ B              | 657949000 | DEFENDER 1           | Nigeria
+ B              | 666666000 | TANGO LLOYD          | Somalia
+ B              | 668114610 | AGIOS DIMITRIOS      | Sao Tome and Principe
+ C              | 244060779 | HEBO CAT 3           | Netherlands
+ C              | 338657000 | GREEN COVE           | USA
+ C              | 375332000 | DEFENDER 5           | Saint Vincent and the Grenadines
+ C              | 375332000 | DEFENDER V           | Saint Vincent and the Grenadines
+ C              | 376496000 | TMC HAWK             | Saint Vincent and the Grenadines
+ C              | 377645000 | SVITZER KUMBIRA      | Saint Vincent and the Grenadines
+ C              | 377725000 | SVITPER KISSAMA  "   | Saint Vincent and the Grenadines
+ C              | 377725000 | SVITZER KISSAMA      | Saint Vincent and the Grenadines
+ C              | 603808800 | NGOLA KILUANGE       | Angola
+ C              | 603809200 | NZINGA MBANDI        | Angola
+ C              | 613006000 | CNS LE LOGONE        | Cameroon
+ C              | 619005000 | LEMERGENCE           | Ivory Coast
+ C              | 619005000 | L'EMERGENCE          | Ivory Coast
+ C              | 635000800 | SURFER 1431          | Kerguelen Islands
+ C              | 654001000 | EL HADRAMI           | Mauritania
+ C              | 657102000 | HUDSON CAPT ELENDU   | Nigeria
+ C              | 657105500 | CONQUEROR TRE        | Nigeria
+ C              | 657111004 | NNS POUNCER          | Nigeria
+ C              | 657111030 | NNS COBRA            | Nigeria
+ C              | 657111033 | NNS ISEHIN           | Nigeria
+ C              | 657111042 | NNS RANGER           | Nigeria
+ C              | 657111046 |  NNS NEMESIS         | Nigeria
+ C              | 657111050 | NNS GENESIS          | Nigeria
+ C              | 657111051 | NNS CONQUER          | Nigeria
+ C              | 657111053 | NNS BINI             | Nigeria
+ C              | 657111053 | NNS VISION           | Nigeria
+ C              | 657111055 | NNS OTUOKE           | Nigeria
+ C              | 657111058 | NNS SWORD            | Nigeria
+ C              | 657111061 | NNS HAWK             | Nigeria
+ C              | 657117300 | DEFENDER 6 (AIS1)    | Nigeria
+ C              | 657117300 | DEFENDER 6AIS3       | Nigeria
+ C              | 657117300 | DEFENDER 6(AIS3)     | Nigeria
+ C              | 657350000 | MV SIKA 2            | Nigeria
+ C              | 657523000 | UTAI 2               | Nigeria
+ C              | 657631000 | NNS SEA HORSE        | Nigeria
+ C              | 657705000 | NNS TIGER            | Nigeria
+ C              | 657715000 | NNS  VALOUR          | Nigeria
+ C              | 657717000 | NNS  VALIANT         | Nigeria
+ C              | 657718000 | NNS STORM            | Nigeria
+ C              | 657720000 | NNS SPARROW          | Nigeria
+ C              | 657737000 | NNS OKPABANA         | Nigeria
+ C              | 657737000 | NNS OKPABAN)*"V      | Nigeria
+ C              | 657743000 | NNS GBEDE            | Nigeria
+ C              | 657744000 | NNS OKURA            | Nigeria
+ C              | 657949000 | DEFENDER 1           | Nigeria
+ C              | 668114610 | AGIOS DIMITRIOS      | Sao Tome and Principe
+ C              | 676003000 | MOLIRO P141          | Congo
+ C              | 710495000 | NPAOC ARAGUARI       | Brazil
+ D              | 224886000 | SPS R/V HESPERIDES   | Spain
+ D              | 228105600 | HIGHLANDER JOHNESS   | France
+ D              | 228105600 | HIGHLANDER-JOHNESS   | France
+ D              | 235000415 | DRUMBEAT OF DEVON    | UK
+ D              | 235000415 | DRUMBEAT OF DEVON.   | UK
+ D              | 244060779 | HEBO CAT 3           | Netherlands
+ D              | 375332000 | DEFENDER 5           | Saint Vincent and the Grenadines
+ D              | 375332000 | DEFENDER V           | Saint Vincent and the Grenadines
+ D              | 376496000 | TMC HAWK             | Saint Vincent and the Grenadines
+ D              | 377645000 | SVITZER KUMBIRA      | Saint Vincent and the Grenadines
+ D              | 377725000 | SVITZER KISSAMA      | Saint Vincent and the Grenadines
+ D              | 603808800 | NGOLA KILUANGE       | Angola
+ D              | 603809600 | PENSADOR             | Angola
+ D              | 613006000 | CNS LE LOGONE        | Cameroon
+ D              | 619015000 | C F  SEKONGO         | Ivory Coast
+ D              | 619015000 | C.F.SEKONGO          | Ivory Coast
+ D              | 627400700 | GNS NAA GBEWAA       | Ghana
+ D              | 635000800 | SURFER 1431          | Kerguelen Islands
+ D              | 654001000 | EL HADRAMI           | Mauritania
+ D              | 657102000 | HUDSON CAPT ELENDU   | Nigeria
+ D              | 657105500 | CONQUEROR TRE        | Nigeria
+ D              | 657105500 | I/NQAEROR DPE  *   T | Nigeria
+ D              | 657111004 | NNS POUNCER          | Nigeria
+ D              | 657111034 | NNS PHANTOM          | Nigeria
+ D              | 657111042 | NNS RANGER           | Nigeria
+ D              | 657111046 |  NNS NEMESIS         | Nigeria
+ D              | 657111050 | NNS GENESIS          | Nigeria
+ D              | 657111053 | NNS BINI             | Nigeria
+ D              | 657111055 | NNS OTUOKE           | Nigeria
+ D              | 657111060 | NNS WARRIOR          | Nigeria
+ D              | 657111061 | NNS HAWK             | Nigeria
+ D              | 657117300 | DEFENDER 6 (AIS1)    | Nigeria
+ D              | 657117300 | DEFENDER 6AIS3       | Nigeria
+ D              | 657117300 | DEFENDER 6(AIS3)     | Nigeria
+ D              | 657123500 | WHISKY PRIDE         | Nigeria
+ D              | 657126400 | TMC ANGEL            | Nigeria
+ D              | 657128500 | DEFENDER VII         | Nigeria
+ D              | 657350000 | MV SIKA 2            | Nigeria
+ D              | 657631000 | NNS SEA HORSE        | Nigeria
+ D              | 657705000 | NNS TIGER            | Nigeria
+ D              | 657707000 | NNS VISION           | Nigeria
+ D              | 657708000 | NNS KYANWA           | Nigeria
+ D              | 657715000 | NNS  VALOUR          | Nigeria
+ D              | 657717000 | NNS  VALIANT         | Nigeria
+ D              | 657720000 | NNS SPARROW          | Nigeria
+ D              | 657743000 | NNS GBEDE            | Nigeria
+ D              | 657744000 | NNS OKURA            | Nigeria
+ D              | 657756110 | NNS IKOLE            | Nigeria
+ D              | 657887000 | HUDSON ELIK          | Nigeria
+ D              | 657940000 | UTAI 21              | Nigeria
+ D              | 657949000 | DEFENDER 1           | Nigeria
+ D              | 668114610 | AGIOS DIMITRIOS      | Sao Tome and Principe
+ E              | 228105600 | HIGHLANDER JOHNESS   | France
+ E              | 228105600 | HIGHLANDER-JOHNESS   | France
+ E              | 235000415 | DRUMBEAT OF DEVON    | UK
+ E              | 375332000 | DEFENDER 5           | Saint Vincent and the Grenadines
+ E              | 375332000 | DEFENDER V           | Saint Vincent and the Grenadines
+ E              | 376496000 | TMC HAWK             | Saint Vincent and the Grenadines
+ E              | 377645000 | SVITZER KUMBIRA      | Saint Vincent and the Grenadines
+ E              | 377725000 | SVITZER KISSAMA      | Saint Vincent and the Grenadines
+ E              | 603808800 | NGOLA KILUANGE       | Angola
+ E              | 613006000 | CNS LE LOGONE        | Cameroon
+ E              | 657105500 | CONQUEROR TRE        | Nigeria
+ E              | 657111033 | NNS ISEHIN           | Nigeria
+ E              | 657111034 | NNS PHANTOM          | Nigeria
+ E              | 657111053 | NNS BINI             | Nigeria
+ E              | 657111055 | NNS OTUOKE           | Nigeria
+ E              | 657117300 | DEFENDER 6 (AIS1)    | Nigeria
+ E              | 657117300 | DEFENDER 6AIS3       | Nigeria
+ E              | 657117300 | DEFENDER 6(AIS3)     | Nigeria
+ E              | 657123500 | WHISKY PRIDE         | Nigeria
+ E              | 657126400 | TMC ANGEL            | Nigeria
+ E              | 657128500 | DEFENDER VII         | Nigeria
+ E              | 657350000 | MV SIKA 2            | Nigeria
+ E              | 657631000 | NNS SEA HORSE        | Nigeria
+ E              | 657707000 | NNS VISION           | Nigeria
+ E              | 657708000 | NNS KYANWA           | Nigeria
+ E              | 657717000 | NNS  VALIANT         | Nigeria
+ E              | 657718000 | NNS STORM            | Nigeria
+ E              | 657720000 | NNS SPARROW          | Nigeria
+ E              | 657744000 | NNS OKURA            | Nigeria
+ E              | 657887000 | HUDSON ELIK          | Nigeria
+ E              | 657949000 | DEFENDER 1           | Nigeria
+ E              | 668114610 | AGIOS DIMITRIOS      | Sao Tome and Principe
+ H              | 635000800 | SURFER 1431          | Kerguelen Islands
+ H              | 657111046 |  NNS NEMESIS         | Nigeria
+ I              | 376496000 | TMC HAWK             | Saint Vincent and the Grenadines
+ I              | 377645000 | SVITZER KUMBIRA      | Saint Vincent and the Grenadines
+ I              | 377725000 | SVITZER KISSAMA      | Saint Vincent and the Grenadines
+ I              | 412000006 | 0                    | China
+ I              | 412000006 | 000                  | China
+ I              | 412000007 | CHANG YUAN YU 1      | China
+ I              | 412201842 | LIAN RUN 43          | China
+ I              | 603808800 | NGOLA KILUANGE       | Angola
+ I              | 613006000 | CNS LE LOGONE        | Cameroon
+ I              | 657100900 | I.H PEPPLE           | Nigeria
+ I              | 657102000 | H5PS%N(CEPP4ADA$NU   | Nigeria
+ I              | 657102000 | HUDSON CAPT ELENDU   | Nigeria
+ I              | 657105500 | CONQUEROR TRE        | Nigeria
+ I              | 657111008 | NNS DAURA            | Nigeria
+ I              | 657111011 | NNS LIGHTING         | Nigeria
+ I              | 657111011 | NNS LIGHTNING        | Nigeria
+ I              | 657111033 | NNS ISEHIN           | Nigeria
+ I              | 657111037 | NNS TITAN            | Nigeria
+ I              | 657111046 |  NNS NEMESIS         | Nigeria
+ I              | 657111046 | NNS NEMESIS          | Nigeria
+ I              | 657111053 | NNS BINI             | Nigeria
+ I              | 657111053 | NNS VISION           | Nigeria
+ I              | 657111055 | NNS HARMONY          | Nigeria
+ I              | 657111055 | NNS OTUOKE           | Nigeria
+ I              | 657120900 | HUDSON MARY SILAS    | Nigeria
+ I              | 657128500 | DEFENDER VII         | Nigeria
+ I              | 657556000 | MV SEARCHER          | Nigeria
+ I              | 657557000 | MV SEEKER            | Nigeria
+ I              | 657705000 | NNS TIGER            | Nigeria
+ I              | 657715000 | NNS  VALOUR          | Nigeria
+ I              | 657720000 | NNS SPARROW          | Nigeria
+ I              | 657756110 | NNS IKOLE            | Nigeria
+ I              | 657887000 | HUDSON ELIK          | Nigeria
+ I              | 657907000 | MV SWAT LINK VI      | Nigeria
+ I              | 657940000 | UTAI 21              | Nigeria
+ I              | 668114610 | AGIOS DIMITRIOS      | Sao Tome and Principe
+ J              | 224942000 | SP P71               | Spain
+ J              | 224942000 | SPS SERVIOLA         | Spain
+ J              | 244060779 | HEBO CAT 3           | Netherlands
+ J              | 376496000 | TMC HAWK             | Saint Vincent and the Grenadines
+ J              | 377645000 | SVITZER KUMBIRA      | Saint Vincent and the Grenadines
+ J              | 412000006 | 0                    | China
+ J              | 412000006 | 000                  | China
+ J              | 657102000 | HUDSON CAPT ELENDU   | Nigeria
+ J              | 657105500 | CONQUEROR TRE        | Nigeria
+ J              | 657111011 | NNS LIGHTNING        | Nigeria
+ J              | 657111033 | NNS ISEHIN           | Nigeria
+ J              | 657111037 | NNS TITAN            | Nigeria
+ J              | 657111050 | NNS GENESIS          | Nigeria
+ J              | 657111052 | NNS YENEGOA          | Nigeria
+ J              | 657111053 | NNS BINI             | Nigeria
+ J              | 657120900 | HUDSON MARY SILAS    | Nigeria
+ J              | 657123500 | WHISKY PRIDE         | Nigeria
+ J              | 657125000 | AUGUSTINA 2          | Nigeria
+ J              | 657128500 | DEFENDER VII         | Nigeria
+ J              | 657556000 | MV SEARCHER          | Nigeria
+ J              | 657631000 | NNS SEA HORSE        | Nigeria
+ J              | 657705000 | NNS TIGER            | Nigeria
+ J              | 657706000 | NNS HARMONY          | Nigeria
+ J              | 657715000 | NNS  VALOUR          | Nigeria
+ J              | 657717000 | NNS  VALIANT         | Nigeria
+ J              | 657756110 | NNS IKOLE            | Nigeria
+ J              | 657887000 | HUDSON ELIK          | Nigeria
+ J              | 668114610 | AGIOS DIMITRIOS      | Sao Tome and Principe
+ K              | 235000415 | DRUMBEAT OF DEVON    | UK
+ K              | 247594000 | GRANDE AMERICA       | Italy
+ K              | 376496000 | TMC HAWK             | Saint Vincent and the Grenadines
+ K              | 377645000 | SVITZER KUMBIRA      | Saint Vincent and the Grenadines
+ K              | 377725000 | SVITZER KISSAMA      | Saint Vincent and the Grenadines
+ K              | 412000007 | CHANG YUAN YU 1      | China
+ K              | 603711600 | SARMAR 2             | Angola
+ K              | 603808800 | NGOLA KILUANGE       | Angola
+ K              | 603809200 | NZINGA MBANDI        | Angola
+ K              | 613006000 | CNS LE LOGONE        | Cameroon
+ K              | 627400600 | GNS YAA ASANTEWAA    | Ghana
+ K              | 657011007 | MV BETTY-H           | Nigeria
+ K              | 657100900 | I.H PEPPLE           | Nigeria
+ K              | 657102000 | HUDSON CAPT ELENDU   | Nigeria
+ K              | 657102900 | NNS PROSPERITY       | Nigeria
+ K              | 657105500 | CONQUEROR TRE        | Nigeria
+ K              | 657109500 | AVS AAWKINSA$D       | Nigeria
+ K              | 657109500 | SVS HAWKINS          | Nigeria
+ K              | 657111005 | NNS HUNTER           | Nigeria
+ K              | 657111011 | NNS LIGHTNING        | Nigeria
+ K              | 657111041 | NNS DOLPHIN          | Nigeria
+ K              | 657111041 | NNS FORTRESS         | Nigeria
+ K              | 657111050 | NNS GENESIS          | Nigeria
+ K              | 657111052 | NNS YENEGOA          | Nigeria
+ K              | 657111053 | NNS BINI             | Nigeria
+ K              | 657111053 | NNS BIOI             | Nigeria
+ K              | 657111058 | NNS SWORD            | Nigeria
+ K              | 657111060 | NNS WARRIOR          | Nigeria
+ K              | 657117300 | DEFENDER 6 AIS1      | Nigeria
+ K              | 657117300 | DEFENDER 6 (AIS1)    | Nigeria
+ K              | 657120900 | HUDSON MARY SILAS    | Nigeria
+ K              | 657121300 | HUDSON LADY ROSELINE | Nigeria
+ K              | 657123500 | WHISKY PRIDE         | Nigeria
+ K              | 657128800 | DEFENDER 3 AIS2      | Nigeria
+ K              | 657351000 | MV   SEA ANGEL 2     | Nigeria
+ K              | 657631000 | NNS SEA HORSE        | Nigeria
+ K              | 657705000 | NNS TIGER            | Nigeria
+ K              | 657706000 | NNS HARMONY          | Nigeria
+ K              | 657717000 | NNS  VALIANT         | Nigeria
+ K              | 657720000 | NNS SPARROW          | Nigeria
+ K              | 657744000 | NNS OKURA            | Nigeria
+ K              | 657907000 | MV SWAT LINK VI      | Nigeria
+ K              | 657940000 | UTAI 21              | Nigeria
+ K              | 668114610 | AGIOS DIMITRIOS      | Sao Tome and Principe
+ K              | 671470008 | OTI                  | Togo
+(273 rows)
+

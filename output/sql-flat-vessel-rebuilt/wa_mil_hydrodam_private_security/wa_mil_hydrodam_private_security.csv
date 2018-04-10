@@ -1,0 +1,14 @@
+ partition_code | vessel_name  |   mmsi    
+----------------+--------------+-----------
+ B              | HYDRO 1      | 370931000
+ D              | HYDRO 1      | 370931000
+ E              | HYDRO 1      | 370931000
+ F              | HYDRO 1      | 370931000
+ G              | HYDRO 1      | 370931000
+ G              | HYDRO 1   !0 | 370931000
+ H              | HYDRO 1      | 370931000
+ I              | HYDRO 1      | 370931000
+ J              | HYDRO 1      | 370931000
+ K              | HYDRO 1      | 370931000
+(10 rows)
+

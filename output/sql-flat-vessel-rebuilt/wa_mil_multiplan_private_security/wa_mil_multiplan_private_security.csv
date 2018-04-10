@@ -1,0 +1,23 @@
+ partition_code |    vessel_name     |   mmsi    
+----------------+--------------------+-----------
+ B              | NATASHA III        | 354786000
+ B              | NATASHA II         | 357384000
+ C              | NATASHA III        | 354786000
+ C              | NATASHA II         | 357384000
+ C              | NATAYHAHACT4     % | 357384000
+ D              | NATASHA III        | 354786000
+ D              | NATASHA II         | 357384000
+ E              | NATASHA III        | 354786000
+ E              | NATASHA II         | 357384000
+ F              | NATASHA III        | 354786000
+ F              | NATASHA II         | 357384000
+ G              | NATASHA III        | 354786000
+ G              | NATASHA II         | 357384000
+ H              | NATASHA III        | 354786000
+ I              | NATASHA II         | 357384000
+ I              | NATASHA III        | 354786000
+ J              | NATASHA III        | 354786000
+ K              | NATASHA III        | 354786000
+ K              | NATASHA II         | 357384000
+(19 rows)
+

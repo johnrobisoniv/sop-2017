@@ -1,0 +1,22 @@
+ partition_code |   vessel_name    |   mmsi    
+----------------+------------------+-----------
+ B              | CASPIAN BREEZE   | 434114300
+ B              | CONQUEROR TRE    | 657105500
+ B              | MV-C0NQUEROR DUE | 657847000
+ C              | CASPIAN BREEZE   | 434114300
+ C              | CONQUEROR TRE    | 657105500
+ C              | MV-C0NQUEROR DUE | 657847000
+ D              | CONQUEROR TRE    | 657105500
+ D              | MV-C0NQUEROR DUE | 657847000
+ E              | CONQUEROR TRE    | 657105500
+ F              | CONQUEROR TRE    | 657105500
+ F              | MV-C0NQUEROR DUE | 657847000
+ G              | CONQUEROR TRE    | 657105500
+ G              | MV-C0NQUEROR DUE | 657847000
+ H              | CONQUEROR TRE    | 657105500
+ I              | CONQUEROR TRE    | 657105500
+ J              | CONQUEROR TRE    | 657105500
+ K              | CONQUEROR TRE    | 657105500
+ K              | MV-C0NQUEROR DUE | 657847000
+(18 rows)
+

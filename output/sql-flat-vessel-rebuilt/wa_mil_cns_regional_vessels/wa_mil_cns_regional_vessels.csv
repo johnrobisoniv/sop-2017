@@ -1,0 +1,44 @@
+ partition_code |   vessel_name   |   mmsi    
+----------------+-----------------+-----------
+ B              | CNS LE LOGONE   | 613006000
+ C              | CNS LE NTEM     | 613003522
+ C              | CNS FIFINDA     | 613003528
+ C              | CNS LE LOGONE   | 613006000
+ D              | CNS LE LOGONE   | 613006000
+ D              | CNS EBODJE P111 | 613020155
+ D              | CNSLASANAGA     | 613003523
+ E              | CNS LE NTEM     | 613003522
+ E              | CNSLASANAGA     | 613003523
+ E              | CNS LE LOGONE   | 613006000
+ E              | CNS EBODJE P111 | 613020155
+ F              | CNS LE NTEM     | 613003522
+ F              | CNSLASANAGA     | 613003523
+ F              | CNS LA SANAGA   | 613003523
+ F              | CNS LE LOGONE   | 613006000
+ G              | CNS LE NTEM     | 613003522
+ G              | CNS LA SANAGA   | 613003523
+ G              | CNS LE LOGONE   | 613006000
+ G              | CNS EBODJE P111 | 613020155
+ H              | CNS LE NTEM     | 613003522
+ H              | CNS LA SANAGA   | 613003523
+ H              | CNS LE LOGONE   | 613006000
+ I              | CNS LE NTEM     | 613003522
+ I              | CNS LA SANAGA   | 613003523
+ I              | CNS LE LOGONE   | 613006000
+ J              | CNS             | 613000000
+ J              | CNS             | 613003522
+ J              | CNS             | 613003523
+ J              | CNS LA SANAGA   | 613003523
+ J              | CNS             | 613003530
+ J              | CNS LE LOGONE   | 613006000
+ J              | CNS JABANE      | 613222333
+ J              | CNS             | 613444222
+ K              | CNS JABANE      | 613222333
+ K              | CNS             | 613333222
+ K              | CNS             | 613000111
+ K              | CNS             | 613003522
+ K              | CNS LA SANAGA   | 613003523
+ K              | CNS             | 613003530
+ K              | CNS LE LOGONE   | 613006000
+(40 rows)
+

@@ -1,0 +1,39 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+ B              | HMT  1               | 657107100
+ B              | QUEEN NAOMI          | 657123000
+ B              | ELTEE1               | 657127200
+ B              | ELTEE 1              | 657127200
+ B              | MV CELTIC EBENEZER   | 657327000
+ C              | QUEEN NAOMI          | 657123000
+ C              | ELTEE 1              | 657127200
+ C              | MV CELTIC EBENEZER   | 657327000
+ D              | QUEEN NAOMI          | 657123000
+ D              | ELTEE 1              | 657127200
+ D              | MV CELTIC EBENEZER   | 657327000
+ E              | HMT  1               | 657107100
+ E              | QUEEN NAJMI        % | 657123000
+ E              | QUEEN NAOMI          | 657123000
+ E              | ELTEE 1              | 657127200
+ F              | HMT  1               | 657107100
+ F              | QUEEN NAOMI          | 657123000
+ F              | ELTEE 1              | 657127200
+ G              | HMT  1               | 657107100
+ G              | QUEEN NAOMI          | 657123000
+ G              | ELTEE1               | 657127200
+ G              | ELTEE 1              | 657127200
+ G              | MV CELTIC EBENEZER   | 657327000
+ H              | ELTEE 1              | 657127200
+ H              | MV CELTIC EBENEZER   | 657327000
+ I              | QUEEN NAOMI          | 657123000
+ I              | ELTEE1               | 657127200
+ I              | ELTEE 1              | 657127200
+ I              | MV CELTIC EBENEZER   | 657327000
+ J              | ELTEE 1              | 657127200
+ J              | MV CELTIC EBENEZER   | 657327000
+ K              | QUEEN NAOMI          | 657123000
+ K              | ELTEE1               | 657127200
+ K              | ELTEE 1              | 657127200
+ K              | MV CELTIC EBENEZER   | 657327000
+(35 rows)
+

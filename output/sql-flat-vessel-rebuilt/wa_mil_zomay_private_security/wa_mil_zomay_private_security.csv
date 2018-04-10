@@ -1,0 +1,49 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+ B              | MV:SIR EMEKA OFFOR   | 657115600
+ B              | MV QUEEN ALAERE      | 657115500
+ B              | MV SIR EMEKA OFFOR   | 657115600
+ B              | PRINCESS EBIKENIE    | 657124900
+ B              | MV AUGUSTINA         | 657635000
+ C              | MV QUEEN ALAERE      | 657115500
+ C              | MV SIR EMEKA OFFOR   | 657115600
+ C              | PRINCESS EBIKENIE    | 657124900
+ C              | MV AUGUSTINA         | 657635000
+ D              | MV:SIR EMEKA OFFOR   | 657115600
+ D              | MV QUEEN ALAERE      | 657115500
+ D              | MV SIR EMEKA OFFOR   | 657115600
+ D              | PRINCESS EBIKENIE    | 657124900
+ D              | AUGUSTINA 2          | 657125000
+ E              | MV:SIR EMEKA OFFOR   | 657115600
+ E              | MV QUEEN ALAERE      | 657115500
+ E              | MV SIR EMEKA OFFOR   | 657115600
+ E              | PRINCESS EBIKENIE    | 657124900
+ E              | AUGUSTINA 2          | 657125000
+ E              | EV                   | 657635000
+ E              | MV AUGUSTINA         | 657635000
+ F              | MV QUEEN ALAERE      | 657115500
+ F              | MV SIR EMEKA OFFOR   | 657115600
+ F              | MV:SIR EMEKA OFFOR   | 657115600
+ F              | PRINCESS EBIKENIE    | 657124900
+ F              | AUGUSTINA 2          | 657125000
+ F              | MV AUGUSTINA         | 657635000
+ G              | MV QUEEN ALAERE      | 657115500
+ G              | MV SIR EGEKA I&GORBH | 657115600
+ G              | MV SIR EMEKA OFFOR   | 657115600
+ G              | MV:SIR EMEKA OFFOR   | 657115600
+ G              | PRINCESS EBIKENIE    | 657124900
+ G              | AUGUSTINA 2          | 657125000
+ G              | MV AUGUSTINA         | 657635000
+ H              | MV SIR EMEKA OFFOR   | 657115600
+ H              | PRINCESS EBIKENIE    | 657124900
+ I              | PRINCESS EBIKENIE    | 657124900
+ J              | MV SIR EMEKA OFFOR   | 657115600
+ J              | PRINCESS EBIKENIE    | 657124900
+ J              | AUGUSTINA 2          | 657125000
+ K              | MV QUEEN ALAERE      | 657115500
+ K              | MV SIR EMEKA OFFOR   | 657115600
+ K              | PRINCESS EBIKENIE    | 657124900
+ K              | AUGUSTINA 2          | 657125000
+ K              | MV AUGUSTINA         | 657635000
+(45 rows)
+

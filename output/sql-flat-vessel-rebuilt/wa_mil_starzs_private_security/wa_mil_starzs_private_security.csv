@@ -1,0 +1,31 @@
+ partition_code |  vessel_name  |   mmsi    
+----------------+---------------+-----------
+ B              | SVS BONNY     | 511050000
+ B              | MV OSARUGUE   | 657132000
+ B              | OSAMEDE       | 657137200
+ C              | MV OSARUGUE   | 657132000
+ C              | ESAMEDE       | 657137200
+ C              | M6 O\ASE# CAB | 657132000
+ C              | OSAMEDE       | 657137200
+ D              | MV OSARUGUE   | 657132000
+ D              | OSAMEDE       | 657137200
+ E              | MV OSARUGUE   | 657132000
+ E              | OSAMEDE       | 657137200
+ F              | MV OSARUGUE   | 657132000
+ F              | OSAMEDE       | 657137200
+ G              | SVS BONNY     | 511050000
+ G              | MV OSARUGUE   | 657132000
+ G              | OSAMEDE       | 657137200
+ H              | SVS BONNY     | 511050000
+ H              | MV OSARUGUE   | 657132000
+ H              | OSAMEDE       | 657137200
+ I              | SVS BONNY     | 511050000
+ I              | OSAMEDE       | 657137200
+ J              | SVS BONNY     | 511050000
+ J              | MV OSARUGUE   | 657132000
+ J              | OSAMEDE       | 657137200
+ K              | SVS BONNY     | 511050000
+ K              | MV OSARUGUE   | 657132000
+ K              | OSAMEDE       | 657137200
+(27 rows)
+

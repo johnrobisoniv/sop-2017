@@ -1,0 +1,8 @@
+ partition_code | vessel_name |   mmsi    
+----------------+-------------+-----------
+ B              | OMSSVR4     | 657111115
+ C              | OMSSVR4     | 657111115
+ D              | OMSSVR4     | 657111115
+ E              | OMSSVR4     | 657111115
+(4 rows)
+

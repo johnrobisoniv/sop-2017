@@ -1,0 +1,60 @@
+ partition_code |    vessel_name    |   mmsi    
+----------------+-------------------+-----------
+ B              | AQUASHIELD I      | 657133000
+ B              | AQUASHIELD II     | 657133100
+ B              | AQUASHIELD III    | 657133200
+ B              | AQUASHIELD IV     | 657133300
+ C              | MV AQUASHIELD III | 657133200
+ C              | AQUASHIELD I      | 657133000
+ C              | AQUASHIELD II     | 657133100
+ C              | AQUASHIELD III    | 657133200
+ C              | AQUASHIELD IV     | 657133300
+ D              | MV AQUASHIELD III | 657133200
+ D              | AQUASHIELD I      | 657133000
+ D              | AQUASHIELD II     | 657133100
+ D              | AQUASHIELD III    | 657133200
+ D              | AQUASHIELD IV     | 657133300
+ D              | MV SEARCHER       | 657556000
+ E              | MV AQUASHIELD III | 657133200
+ E              | AQUASHIELD I      | 657133000
+ E              | AQUASHIELD II     | 657133100
+ E              | AQUASHIELD III    | 657133200
+ E              | AQUASHIELD IV     | 657133300
+ E              | MV SEARCHER       | 657556000
+ F              | MV SEARCHER       | 657556000
+ F              | AQUASHIELD I      | 657133000
+ F              | MV AQUASHIELD III | 657133200
+ F              | AQUASHIELD IV     | 657133300
+ F              | AQUASHIELD II     | 657133100
+ F              | AQUASHIELD III    | 657133200
+ G              | AQUASHIELD I      | 657133000
+ G              | AQUASHIELD II     | 657133100
+ G              | AQUASHIELD IV     | 657133300
+ G              | MV SEARCHER       | 657556000
+ G              | UNAVAILABLE       | 657557000
+ H              | MV AQUASHIELD III | 657133200
+ H              | AQUASHIELD I      | 657133000
+ H              | AQUASHIELD III    | 657133200
+ H              | AQUASHIELD IV     | 657133300
+ H              | MV SEARCHER       | 657556000
+ I              | MV SEARCHER       | 657556000
+ I              | MV SEEKER         | 657557000
+ I              | AQUASHIELD I      | 657133000
+ I              | AQUASHIELD II     | 657133100
+ I              | AQUASHIELD III    | 657133200
+ I              | MV AQUASHIELD III | 657133200
+ I              | AQUASHIELD IV     | 657133300
+ J              | AQUASHIELD I      | 657133000
+ J              | AQUASHIELD II     | 657133100
+ J              | AQUASHIELD III    | 657133200
+ J              | MV AQUASHIELD III | 657133200
+ J              | AQUASHIELD IV     | 657133300
+ J              | MV SEARCHER       | 657556000
+ K              | MV SEARCHER       | 657556000
+ K              | AQUASHIELD I      | 657133000
+ K              | AQUASHIELD II     | 657133100
+ K              | AQUASHIELD III    | 657133200
+ K              | MV AQUASHIELD III | 657133200
+ K              | AQUASHIELD IV     | 657133300
+(56 rows)
+

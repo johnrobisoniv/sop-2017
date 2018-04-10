@@ -1,0 +1,89 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+ B              | DEFENDER 5           | 375332000
+ B              | DEFENDER V           | 375332000
+ B              | DEFENDER3            | 666666000
+ B              | DEFENDER 3 AIS2      | 666666000
+ B              | DEFENDER VIII        | 657128800
+ B              | DEFENDER VII         | 657128500
+ B              | DEFENDER 3 AIS2      | 657128800
+ B              | DEFENDER 2           | 657893000
+ B              | DEFENDER 2 (AIS2)    | 657893000
+ B              | DEFENDER 1           | 657949000
+ C              | DEFENDER 5           | 375332000
+ C              | DEFENDER V           | 375332000
+ C              | DEFENDER 6 AIS1      | 657117300
+ C              | DEFENDER 6 (AIS1)    | 657117300
+ C              | DEFENDER 6(AIS3)     | 657117300
+ C              | DEFENDER VII         | 657128500
+ C              | DEFENDER VIII        | 657128800
+ C              | DEFENDER 2           | 657893000
+ C              | DEFENDER 2       "   | 657893000
+ C              | DEFENDER 2 (AIS2)    | 657893000
+ C              | DEFENDER 1           | 657949000
+ C              | DEFENDER 3 AIS2      | 666666000
+ D              | DEFENDER 5           | 375332000
+ D              | DEFENDER V           | 375332000
+ D              | DEFENDER 6 AIS1      | 657117300
+ D              | DEFENDER 6 (AIS1)    | 657117300
+ D              | DEFENDER 6(AIS3)     | 657117300
+ D              | DEFENDER VIII        | 657128800
+ D              | DEFENDER VII         | 657128500
+ D              | DEFENDER 3 AIS2      | 657128800
+ D              | DEFENDER 2           | 657893000
+ D              | DEFENDER 2 (AIS2)    | 657893000
+ D              | DEFENDER 1           | 657949000
+ D              | DEFENDER 3 AIS2      | 666666000
+ E              | DEFENDER 5           | 375332000
+ E              | DEFENDER V           | 375332000
+ E              | DEFENDER 6 (AIS1)    | 657117300
+ E              | DEFENDER VII         | 657128500
+ E              | DEFENDER 3 AIS2      | 657128800
+ E              | DEFENDER VIII        | 657128800
+ E              | DEFENDER 2           | 657893000
+ E              | DEFENDER 2 (AIS2)    | 657893000
+ E              | DEFENDER 1           | 657949000
+ F              | DEFENDER 5           | 375332000
+ F              | DEFENDER V           | 375332000
+ F              | DEFENDER 6 (AIS1)    | 657117280
+ F              | DEFENDER 6 (AIS1)    | 657117300
+ F              | DEFENDER VII         | 657128500
+ F              | DEFENDER 3 AIS2      | 657128800
+ F              | DEFENDER VIII        | 657128800
+ F              | DEFENDER 2           | 657893000
+ F              | DEFENDER 2 (AIS2)    | 657893000
+ F              | DEFENDER 1           | 657949000
+ G              | DEFENDER 5           | 375332000
+ G              | DEFENDER V           | 375332000
+ G              | DEFENDER 6 (AIS1)    | 657117300
+ G              | DEFENDER 6(AIS3)     | 657117300
+ G              | DEFENDER VII         | 657128500
+ G              | DEFENDER VIII        | 657128800
+ G              | DEFENDER 2           | 657893000
+ G              | DEFENDER 2 (AIS2)    | 657893000
+ G              | DEFENDER 1           | 657949000
+ H              | DEFENDER V           | 375332000
+ H              | DEFENDER 6 (AIS1)    | 657117280
+ H              | DEFENDER 6 (AIS1)    | 657117300
+ H              | DEFENDER VII         | 657128500
+ H              | DEFENDER VIII        | 657128800
+ H              | DEFENDER 1           | 657949000
+ H              | DEFENDER 3 AIS2      | 666666000
+ I              | DEFENDER 5           | 375332000
+ I              | DEFENDER V           | 375332000
+ I              | DEFENDER VII         | 657128500
+ I              | DEFENDER VIII        | 657128800
+ I              | DEFENDER 1           | 657949000
+ J              | DEFENDER 5           | 375332000
+ J              | DEFENDER VII         | 657128500
+ J              | DEFENDER VIII        | 657128800
+ J              | DEFENDER 2           | 657893000
+ K              | DEFENDER 5           | 375332000
+ K              | DEFENDER V           | 375332000
+ K              | DEFENDER 6 (AIS1)    | 657117300
+ K              | DEFENDER VII         | 657128500
+ K              | DEFENDER VIII        | 657128800
+ K              | DEFENDER VIII    (B* | 657128800
+ K              | DEFENDER 2           | 657893000
+(85 rows)
+

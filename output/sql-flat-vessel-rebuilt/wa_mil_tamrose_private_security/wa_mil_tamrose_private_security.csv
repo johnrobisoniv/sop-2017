@@ -1,0 +1,51 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+ B              | TMC HAWK             | 376496000
+ B              | TMC EAGLE            | 657100100
+ B              | SVS AVERY            | 657109400
+ B              | SVS HAWKINS          | 657109500
+ B              | TMC ANGEL            | 657126400
+ C              | TMC HAWK             | 376496000
+ C              | TMC EAGLE            | 657100100
+ C              | SVS AVERY            | 657109400
+ C              | SVS HAWKINS          | 657109500
+ C              | TMC ANGEL            | 657126400
+ D              | TMC HAWK             | 376496000
+ D              | TMC EAGLE            | 657100100
+ D              | SVS AVERY            | 657109400
+ D              | SVS HAWKINS          | 657109500
+ D              | TMC ANGEL            | 657126400
+ E              | TMC HAWK             | 376496000
+ E              | TMC EAGLE            | 657100100
+ E              | SVS AVERY            | 657109400
+ E              | SVS HAWKINS          | 657109500
+ E              | TMC ANGEL            | 657126400
+ F              | TMC HAWK             | 376496000
+ F              | TMC EAGLE            | 657100100
+ F              | SVS AVERY            | 657109400
+ F              | SVS HAWKINS          | 657109500
+ F              | TMC ANGEL            | 657126400
+ G              | TMC HAWK             | 376496000
+ G              | TMC EAGLE            | 657100100
+ G              | SVS AVERY            | 657109400
+ G              | SVS HAWKINS          | 657109500
+ G              | TMC ANGEL            | 657126400
+ H              | TMC HAWK             | 376496000
+ H              | TMC4EAGXE     !  0   | 657100100
+ H              | TMC EAGLE            | 657100100
+ H              | SVS AVERY            | 657109400
+ I              | TGC4XASK        H  1 | 376496000
+ I              | TMC HAWK             | 376496000
+ I              | TMC EAGLE            | 657100100
+ I              | SVS AVERY            | 657109400
+ I              | SVS HAWKINS          | 657109500
+ J              | TMC HAWK             | 376496000
+ J              | TMC EAGLE            | 657100100
+ J              | SVS AVERY            | 657109400
+ K              | TMC HAWK             | 376496000
+ K              | TMC EAGLE            | 657100100
+ K              | TMC EAGLE        % 1 | 657100100
+ K              | SVS AVERY            | 657109400
+ K              | SVS HAWKINS          | 657109500
+(47 rows)
+

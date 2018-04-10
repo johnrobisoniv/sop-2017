@@ -1,0 +1,44 @@
+ partition_code |     vessel_name      |   mmsi    
+----------------+----------------------+-----------
+ B              | MV QUEENVICTORIA III | 657129300
+ B              | MV QUEENVIA4ORIA III | 657129300
+ B              | MV QUEEN VICTORIA IV | 657129400
+ B              | QUEEN VICTORIA 1     | 657620000
+ B              | QUEEN VICTORIA 11    | 657919000
+ C              | MV QUEENVICTORIA III | 657129300
+ C              | MV QUEEN VICTORIA IV | 657129400
+ C              | QUEEN VICTORIA 1     | 657620000
+ C              | QUEEN WYCV-RI! 1     | 657620000
+ C              | QUEEN VICTORIA 11    | 657919000
+ D              | MV QUEENVICTORIA III | 657129300
+ D              | MV QUEEN VICTORIA IV | 657129400
+ D              | QUEEN VICTORIA 1     | 657620000
+ D              | QUEEN VICTORIA 11    | 657919000
+ E              | MV QUEENVICTORIA III | 657129300
+ E              | MV QUEEN VICTORIA IV | 657129400
+ E              | QUEEN VICTORIA 1     | 657620000
+ E              | QUEEN VICTORIA 11    | 657919000
+ F              | MV QUEENVICTORIA III | 657129300
+ F              | MV QUEEN VICTORIA IV | 657129400
+ F              | QUEEN VICTORIA 1     | 657620000
+ F              | QUEEN VICTORIA 11    | 657919000
+ G              | MV QUEENVICTORIA III | 657129300
+ G              | MV QUEEN VICTORIA IV | 657129400
+ G              | QUEEN VICTORIA 1     | 657620000
+ G              | QUEEN VICTORIA 1 !!  | 657620000
+ G              | QUEEN VICTORIA 11    | 657919000
+ H              | QUEEN VICTORIA 1     | 657620000
+ H              | QUEEN VICTORIA 11    | 657919000
+ I              | MV QUEENVICTORIA III | 657129300
+ I              | MV QUEEN VICTORIA IV | 657129400
+ I              | QUEEN VICTORIA 1     | 657620000
+ I              | QUEEN VICTORIA 11    | 657919000
+ J              | MV QUEENVICTORIA III | 657129300
+ J              | QUEEN VICTORIA 1     | 657620000
+ J              | QUEEN VICTORIA 11    | 657919000
+ K              | MV QUEENVICTORIA III | 657129300
+ K              | MV QUEEN VICTORIA IV | 657129400
+ K              | QUEEN VICTORIA 1     | 657620000
+ K              | QUEEN VICTORIA 11    | 657919000
+(40 rows)
+
